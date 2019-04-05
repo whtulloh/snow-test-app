@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="wahyu_app_table" max_length="40" name="x_280763_wahyu_app_wahyu_app_table" type="collection">
+        <element label="Adress" max_length="40" name="adress" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
